@@ -1,10 +1,10 @@
 # Production-Ready RAG System 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1VBaHec-4F123VQLJWWkWaol4uRB2fqH_?usp=sharing )
 
 This project provides a complete, containerized Retrieval-Augmented Generation (RAG) system. It uses local models for embeddings and language generation, ensuring privacy and cost-effectiveness. The system is served via a Flask REST API and orchestrated with Docker Compose.
 
-<img width="898" height="532" alt="image" src="https://github.com/user-attachments/assets/59a195b9-b3b0-41d4-8901-2c280af2d12d" />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1VBaHec-4F123VQLJWWkWaol4uRB2fqH_?usp=sharing )
+<img width="898" height="532" alt="image" src="https://github.com/user-attachments/assets/59a195b9-b3b0-41d4-8901-2c280af2d12d" />    
 
 ## Features 
 
