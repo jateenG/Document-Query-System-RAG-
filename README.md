@@ -2,6 +2,7 @@
 
 This project provides a complete, containerized Retrieval-Augmented Generation (RAG) system. It uses local models for embeddings and language generation, ensuring privacy and cost-effectiveness. The system is served via a Flask REST API and orchestrated with Docker Compose.
 
+https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg<img width="898" height="532" alt="image" src="https://github.com/user-attachments/assets/59a195b9-b3b0-41d4-8901-2c280af2d12d" />
 
 
 ## Features 
